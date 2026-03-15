@@ -3,8 +3,7 @@
 # Hi, I'm Liel 🌷
 
 **Junior Full Stack Developer**  
-Software & Information Systems Engineering Graduate · Ben-Gurion University
-
+B.Sc. Software & Information Systems Engineering · Ben-Gurion University (Final Semester)
 I enjoy building clean interfaces, structured systems, and products that people actually enjoy using.
 
 <p>
@@ -25,7 +24,7 @@ I enjoy building clean interfaces, structured systems, and products that people 
 
 ## About Me
 
-I'm a junior full stack developer and a graduate of Software & Information Systems Engineering from Ben-Gurion University.
+I'm a junior full stack developer currently in my final semester of Software & Information Systems Engineering at Ben-Gurion University.
 
 What I enjoy most about development is the point where structure, logic, and user experience meet. I like building interfaces that feel clean and intuitive, but also making sure the system behind them is organized and reliable.
 
