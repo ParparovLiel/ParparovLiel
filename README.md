@@ -3,7 +3,9 @@
 # Hi, I'm Liel 🌷
 
 **Junior Full Stack Developer**  
-Software & Information Systems Engineering · Ben-Gurion University
+Software & Information Systems Engineering Graduate · Ben-Gurion University
+
+I enjoy building clean interfaces, structured systems, and products that people actually enjoy using.
 
 <p>
   <!-- <a href="https://github.com/ParparovLiel">
@@ -23,37 +25,15 @@ Software & Information Systems Engineering · Ben-Gurion University
 
 ## About Me
 
-I'm a junior full stack developer who genuinely enjoys the craft — writing clean code, building interfaces that feel good to use, and thinking through how all the pieces fit together.
+I'm a junior full stack developer and a graduate of Software & Information Systems Engineering from Ben-Gurion University.
 
-My degree is in Software & Information Systems Engineering from Ben-Gurion University, and my sweet spot is **frontend development**: the kind that's modular, intentional, and connected properly to the backend. I'm currently looking for a **junior full stack or frontend-focused role** where I can keep learning, contribute meaningfully, and be part of something worth building.
+What I enjoy most about development is the point where structure, logic, and user experience meet. I like building interfaces that feel clean and intuitive, but also making sure the system behind them is organized and reliable.
 
-When a project comes together — the UI feels right, the structure is clean, the logic holds — that's the part I love most.
+My strongest area is frontend development — designing modular components, structuring UI flows, and connecting them properly to backend services. At the same time, I have practical experience working with backend APIs and system integration, and I’m comfortable understanding and working across the full stack when needed.
 
----
+In most of my projects I naturally take ownership of the frontend side, while collaborating closely with the backend and making sure the integration works smoothly.
 
-## Tech Stack
-
-**Frontend**
-
-![Vue.js](https://img.shields.io/badge/Vue.js-f8efe7?style=for-the-badge&logo=vuedotjs&logoColor=4d4038)
-![React](https://img.shields.io/badge/React-f8efe7?style=for-the-badge&logo=react&logoColor=4d4038)
-![JavaScript](https://img.shields.io/badge/JavaScript-f8efe7?style=for-the-badge&logo=javascript&logoColor=4d4038)
-![HTML5](https://img.shields.io/badge/HTML5-f8efe7?style=for-the-badge&logo=html5&logoColor=4d4038)
-![CSS3](https://img.shields.io/badge/CSS3-f8efe7?style=for-the-badge&logo=css3&logoColor=4d4038)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-f8efe7?style=for-the-badge&logo=bootstrap&logoColor=4d4038)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-f6ede5?style=for-the-badge&logo=node.js&logoColor=4d4038)
-![Express](https://img.shields.io/badge/Express-f6ede5?style=for-the-badge&logo=express&logoColor=4d4038)
-![MySQL](https://img.shields.io/badge/MySQL-f6ede5?style=for-the-badge&logo=mysql&logoColor=4d4038)
-![REST API](https://img.shields.io/badge/REST%20API-f6ede5?style=for-the-badge&logo=fastapi&logoColor=4d4038)
-
-**Tools & Languages**
-
-![Python](https://img.shields.io/badge/Python-faf3ec?style=for-the-badge&logo=python&logoColor=4d4038)
-![Git](https://img.shields.io/badge/Git-faf3ec?style=for-the-badge&logo=git&logoColor=4d4038)
-![SQL](https://img.shields.io/badge/SQL-faf3ec?style=for-the-badge&logo=sqlite&logoColor=4d4038)
+I'm currently looking for a **junior full stack or frontend-oriented role** where I can keep improving as an engineer, contribute to real products, and work with people who care about building things well.
 
 ---
 
@@ -62,7 +42,7 @@ When a project comes together — the UI feels right, the structure is clean, th
 ### 🍽 Grandma's Recipes — Frontend
 *Vue.js · Multi-page application*
 
-A recipe management app I built with Vue.js — modular components, client-side routing, favorites, meal planning, and personalized recipe flows. This one taught me a lot about structuring a real frontend from the ground up.  
+A recipe management app I built with Vue.js — modular components, client-side routing, favorites, meal planning, and personalized recipe flows. This project helped me understand how to structure a real frontend application from the ground up.
 → [View Repository](https://github.com/ParparovLiel/Grandma-s-Recipes-frontend)
 
 ---
@@ -79,7 +59,7 @@ A networking tool that measures real transfer performance over TCP and UDP using
 *HTML · CSS · JavaScript*
 
 A character-driven landing page with a gallery, embedded playlist, and interactive details — all in vanilla HTML/CSS/JS. One of those projects where the fun was in getting the small things just right.  
-→ [View Repository](PASTE-YOUR-REPOSITORY-LINK-HERE)
+→ [View Repository](https://github.com/ParparovLiel/aunt_luccy_website)
 
 ---
 
@@ -98,7 +78,7 @@ A character-driven landing page with a gallery, embedded playlist, and interacti
 I'd love to hear about opportunities, collaborations, or just connect with people building interesting things.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE/)
-- 📬 [liel.rebrov@gmail.com](mailto:YOUR-EMAIL-HERE)
+- 📬 [Email](mailto:liel.rebrov@gmail.com)
 
 ---
 
