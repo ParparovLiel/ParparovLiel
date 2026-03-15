@@ -4,6 +4,7 @@
 
 **Junior Full Stack Developer**  
 B.Sc. Software & Information Systems Engineering · Ben-Gurion University (Final Semester)
+
 I enjoy building clean interfaces, structured systems, and products that people actually enjoy using.
 
 <p>
