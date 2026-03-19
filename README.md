@@ -11,7 +11,7 @@ I enjoy building clean interfaces, structured systems, and products that people 
   <!-- <a href="https://github.com/ParparovLiel">
     <img src="https://img.shields.io/badge/GitHub-4d4038?style=for-the-badge&logo=github&logoColor=white" />
   </a> -->
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE/">
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/liel-parparov-226751266/">
     <img src="https://img.shields.io/badge/LinkedIn-c98f78?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:liel.rebrov@gmail.com">
@@ -77,7 +77,7 @@ A character-driven landing page with a gallery, embedded playlist, and interacti
 
 I'd love to hear about opportunities, collaborations, or just connect with people building interesting things.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/www.linkedin.com/in/liel-parparov-226751266/)
 - 📬 [Email](mailto:liel.rebrov@gmail.com)
 
 ---
